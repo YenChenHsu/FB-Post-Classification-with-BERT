@@ -1,7 +1,6 @@
 # FB-Post-Classification-with-NLP-BERT
 
-## Facebook Post Classification Using BERT
-Project Overview
+## Project Overview
 In this project, we aim to build a text classification model using BERT (Bidirectional Encoder Representations from Transformers) to classify Facebook posts into three categories based on their content: Appreciation, Complaint, and Feedback. Businesses leverage these insights to better understand customer needs and preferences, drawing from a rich dataset of user-generated content on Facebook business pages.
 
 ## Dataset
